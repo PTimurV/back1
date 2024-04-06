@@ -13,5 +13,6 @@ while (s!="Верно"):
         break
     answer = int((max+min)//2)
     print(answer)
+print("Загадонное число = ", answer )
 
 
